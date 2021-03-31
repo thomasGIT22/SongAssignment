@@ -1,0 +1,42 @@
+h2{
+    max-width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#tommy{
+    max-width: 100%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 0px 0px 5px black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#add{
+    max-width: 100%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 0px 0px 5px black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#clear{
+    max-width: 100%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    box-shadow: 0px 0px 5px black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#label{
+    max-width: 100%;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+#tommy:hover, #clear:hover, #add:hover{
+    border: 3px solid red;
+}
+#list {
+    color: black;
+    text-shadow: 0px 0px 20px red;
+}

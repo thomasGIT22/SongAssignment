@@ -1,0 +1,64 @@
+.song {
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    color: white;
+    box-shadow: 0px 10px 20px black;
+    left: 50%;
+    top: 50%;
+    font-size: 20px;
+    background-image: linear-gradient(to right, #e52d27 , #b31217);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+h2 {
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    background-image: linear-gradient(#e52d27 , #b31217);
+    margin-top: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 2px 2px 20px red;
+}
+.songName{
+    border: 2px solid white;
+    text-shadow: 2px 2px 5px black;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.artist {
+    border: 2px solid white;
+    text-shadow: 2px 2px 3px black;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.album {
+    border: 2px solid white;
+    text-shadow: 2px 2px 1px black;
+    font-size: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#miniDiv {
+    display: block;
+    background-color: whitesmoke;
+    margin-left: 10%;
+    margin-right: 70%;
+    padding: 0px 0px 0px 25px;
+    border: 1px solid black;
+}
+
+.video {
+    box-shadow: 0px 0px 20px white;
+    margin-bottom: 5%;
+}
